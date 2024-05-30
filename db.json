@@ -1,0 +1,1331 @@
+{
+    "shops": [
+      {
+        "id": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "name": "The Fat Duck",
+        "image": "",
+        "email": "sotynub@mailinator.com",
+        "mobile": "8573845783",
+        "whatsapp": "9347837483",
+        "address1": "95 Oak Road",
+        "address2": "Dolor fuga Sit duci",
+        "city": "Autem",
+        "postCode": "645353",
+        "delivery": false,
+        "collection": false,
+        "accName": "The Fat Duck",
+        "accNo": "104443452453",
+        "accSortCode": "SBI976555"
+      },
+      {
+        "id": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "name": "Selvi Mess",
+        "image": "images/ck_img2.png",
+        "email": "rr@gmail.com",
+        "mobile": "3264489621",
+        "whatsapp": "634654822135",
+        "address1": "23c",
+        "address2": "Selvi Nagar",
+        "city": "salem",
+        "postcode": "636003",
+        "delivery": true,
+        "collection": true,
+        "accName": "williams",
+        "accNo": "12345678",
+        "accSortCode": "100122"
+      },
+      {
+        "id": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "name": "Bhuvaneshwari",
+        "image": "",
+        "email": "buvana@easwari.com",
+        "mobile": "05641456456",
+        "whatsapp": "98745612",
+        "address1": "12C",
+        "address2": "Ashok Nagar",
+        "city": "Salem",
+        "postcode": "636001",
+        "delivery": true,
+        "collection": true,
+        "accName": "54676432446",
+        "accNo": "6467646542",
+        "accSortCode": "5455"
+      },
+      {
+        "id": "140dd8ab-5b90-4032-b295-4562d0d2fa01",
+        "name": "Josephine Day",
+        "image": "",
+        "email": "kubanuxy@mailinator.com",
+        "mobile": "9767556454",
+        "whatsapp": "8767564453",
+        "address1": "309 East Cowley Lane",
+        "address2": "Molestiae veniam vo",
+        "city": "Mollit facere conseq",
+        "postCode": "6756767",
+        "accName": "Desirae Norris",
+        "accNo": "4366666666666",
+        "accSortCode": "465465",
+        "delivery": false,
+        "collection": false
+      },
+      {
+        "id": "1fcc7456-d7dc-4971-aa2b-c7c2cb017c8b",
+        "name": "Anandhabhavan",
+        "image": "",
+        "email": "lefil@mailinator.com",
+        "mobile": "12111111111111",
+        "whatsapp": "11111111111111",
+        "address1": "83 South Second Lane",
+        "address2": "Officia eius consequ",
+        "city": "Itaque non maxime si",
+        "postCode": "00000",
+        "delivery": false,
+        "collection": true,
+        "accName": "Kessie Nicholson",
+        "accNo": "Atque consequatur D1111111",
+        "accSortCode": "000000000"
+      },
+      {
+        "id": "8ef98be1-9b03-4c08-a01b-26c1203a945a",
+        "name": "Zoe Boyer",
+        "image": "",
+        "email": "nusu@mailinator.com",
+        "mobile": "76765765765",
+        "whatsapp": "75746546776",
+        "address1": "633 Cowley Avenue",
+        "address2": "In aut laudantium i",
+        "city": "Eu cillum non assume",
+        "postCode": "675765",
+        "delivery": false,
+        "collection": true,
+        "accName": "Stacey Vaughn",
+        "accNo": "6745635",
+        "accSortCode": "57764564"
+      },
+      {
+        "id": "9a8832cd-6b2f-493a-9c18-bf64b4055fd1",
+        "name": "Steel Mason",
+        "image": "",
+        "email": "loma@mailinator.com",
+        "mobile": "99999999999999",
+        "whatsapp": "99999999999999",
+        "address1": "94 Fabien Road",
+        "address2": "Et facere doloribus ",
+        "city": "Voluptatum sint ali",
+        "postCode": "12121",
+        "delivery": true,
+        "collection": false,
+        "accName": "Caleb Hansen",
+        "accNo": "Perferendis velit e",
+        "accSortCode": "636005"
+      }
+    ],
+    "menus": [
+      {
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "id": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+        "menuName": "Chicken Briyani",
+        "menuImage": "img.jpg",
+        "menuDescription": "Briyani with raitha,egg and kurma",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "unitPrice": 100
+      },
+      {
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "id": "94081fc9-ef2f-42d8-b77e-dd2015ca9fa0",
+        "menuName": "Chicken 65",
+        "menuImage": "img.jpg",
+        "menuDescription": "Briyani with raitha,egg and kurma",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "unitPrice": 150
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuDescription": "Tender and juicy boneless chicken thigh meat coated in crispy batter",
+        "id": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+        "menuImage": "https://www.mcdonaldsindia.com/images/productview/McSpicyChicken.jpg",
+        "menuName": "McSpicy Chicken",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "unitPrice": 25
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuDescription": "Tender and juicy chicken coats with a hot & crispy batter",
+        "id": "4cc5ad78-c639-41bd-af9e-cea7a03bb0e5",
+        "menuImage": "https://www.mcdonaldsindia.com/images/productview/BigSpicyChickenWrap.jpg",
+        "menuName": "BigSpicy Chicken",
+        "maxQty": 5,
+        "preparedQty": 50,
+        "unitPrice": 15
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuDescription": "Crispy and spicy paneer will spice up your taste quotient",
+        "id": "79c5d3c4-dd58-4444-8233-199d56d61175",
+        "menuImage": "https://www.mcdonaldsindia.com/images/productview/McSpicyPaneer.jpg",
+        "menuName": "BigSpicy Paneer",
+        "maxQty": 5,
+        "preparedQty": 50,
+        "unitPrice": 120
+      },
+      {
+        "id": "2d783970-fa71-4d19-9be8-9f05b488a884",
+        "menuName": "McChicken Meal",
+        "menuImage": "img.jpg",
+        "menuDescription": "That includes McChicken, medium fries and medium Coke",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "unitPrice": 150,
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72"
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "00daced7-8456-4ee3-8a67-b8372f701f8e",
+        "menuDescription": "Fish",
+        "menuImage": "img.jpg",
+        "menuName": "Fish Fry",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "unitPrice": 80
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "25aac04a-ecae-41fc-9633-a3b308c5e70c",
+        "menuDescription": "That includes Filet-O-Fish, medium fries and medium Coke",
+        "menuImage": "https://www.mcdonaldsindia.com/images/productview/Filet-O-FishMeal.jpg",
+        "menuName": "FILET-O-FISH MEAL",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "unitPrice": 120
+      },
+      {
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "id": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+        "menuName": "Mutton Briyani",
+        "menuImage": "img.jpg",
+        "menuDescription": "Briyani with raitha,egg and kurma",
+        "preparedQty": 50,
+        "maxQty": 8,
+        "unitPrice": 100
+      },
+      {
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "id": "f445389d-4782-445f-92f7-9855aef85041",
+        "menuName": "Mutton Sukka",
+        "menuImage": "img.jpg",
+        "menuDescription": "Mutton Chukka",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "unitPrice": 100
+      },
+      {
+        "id": "1abda1ca-b0fc-4d49-8ae2-364150c9dd92",
+        "menuName": "Burger",
+        "menuImage": "Burger.jpg",
+        "menuDescription": "Tasty Burger ",
+        "preparedQty": 80,
+        "maxQty": 20,
+        "unitPrice": 100,
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72"
+      },
+      {
+        "id": "10d972a5-08a7-411f-973a-874d7a724d0d",
+        "menuName": "Sandwich",
+        "menuImage": "Sandwich.jpg",
+        "menuDescription": "Tasty Sandwich ",
+        "preparedQty": 80,
+        "maxQty": 20,
+        "unitPrice": 100,
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72"
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "ec93c425-8d2b-4d16-9639-09e848dd14a4",
+        "menuName": "Pizza",
+        "menuImage": "pizza.jpg",
+        "menuDescription": "Nisi incididunt fugi",
+        "preparedQty": 291,
+        "maxQty": 47,
+        "unitPrice": 232
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "c1c3a7ae-87ec-4c72-aa2b-9a76beb633aa",
+        "menuName": "Dosa",
+        "menuImage": "Dosa.jpg",
+        "menuDescription": "Tasty",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "unitPrice": 25
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "880fca05-f05b-4234-8783-5ba15e0e4afe",
+        "menuName": "Deserunt dolore sit",
+        "menuImage": "Consequat Consequat",
+        "menuDescription": "Laborum anim et simi",
+        "preparedQty": 394,
+        "maxQty": 830,
+        "unitPrice": 1
+      }
+    ],
+    "deals": [
+      {
+        "id": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "shopName": "Core by Clare Smyth",
+        "shopImage": "https://i2-prod.bristolpost.co.uk/incoming/article5129387.ece/ALTERNATES/s1200/7_Al-fresco-dining-Olive-Shed.jpg",
+        "tag": "Sunday fishy",
+        "preparedDate": "2023-07-28",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": true,
+          "deliveryCharge": 3
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": true,
+          "dinner": true,
+          "timing": {
+            "deliveryFrom": "08:00 PM",
+            "closingTime": "07:00 PM"
+          }
+        },
+        "menu": [
+          {
+            "id": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/McSpicyChicken.jpg",
+            "menuDescription": "Briyani with raitha,egg and kurma",
+            "preparedQty": 50,
+            "maxQty": 9,
+            "unitPrice": 100,
+            "tags": [
+              "Chicken",
+              "Briyani"
+            ]
+          },
+          {
+            "id": "94081fc9-ef2f-42d8-b77e-dd2015ca9fa0",
+            "menuName": "Chicken 65",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/BigSpicyChickenWrap.jpg",
+            "menuDescription": "Tender and juicy boneless chicken thigh meat coated in crispy batter",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 150,
+            "tags": [
+              "Chicken",
+              "Tender",
+              "Starter"
+            ]
+          },
+          {
+            "id": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+            "menuName": "Mutton Briyani",
+            "menuImage": "img.jpg",
+            "menuDescription": "Briyani with raitha,egg and kurma",
+            "preparedQty": 50,
+            "maxQty": 80,
+            "unitPrice": 100,
+            "tags": [
+              "Paneer",
+              "veg",
+              "Wrap"
+            ]
+          },
+          {
+            "id": "00daced7-8456-4ee3-8a67-b8372f701f8e",
+            "menuName": "Fish Fry",
+            "menuImage": "img.jpg",
+            "menuDescription": "Fish",
+            "preparedQty": 50,
+            "maxQty": 9,
+            "unitPrice": 80,
+            "tags": [
+              "Chicken",
+              "Briyani"
+            ]
+          },
+          {
+            "id": "f445389d-4782-445f-92f7-9855aef85041",
+            "menuName": "Mutton sukka",
+            "menuImage": "img.jpg",
+            "menuDescription": "Mutton with gravy",
+            "preparedQty": 40,
+            "maxQty": 8,
+            "unitPrice": 100,
+            "tags": [
+              "Chicken",
+              "Tender",
+              "Starter"
+            ]
+          }
+        ],
+        "dealStatus": "closed"
+      },
+      {
+        "id": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "The Fat Duck",
+        "shopImage": "https://prod-upp-image-read.ft.com/19639e80-6ac2-11ea-a3c9-1fe6fedcca75",
+        "tag": "Veggie and Chicken Special",
+        "preparedDate": "2023-08-05",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          "deliveryCharge": 5
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": false,
+          "dinner": false,
+          "timing": {
+            "closingTime": "05:06 PM",
+            "deliveryFrom": "04:06 AM"
+          }
+        },
+        "menu": [
+          {
+            "id": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+            "menuName": "McSpicy Chicken",
+            "menuImage": "img.jpg",
+            "menuDescription": "Tender and juicy boneless chicken thigh meat coated in crispy batter",
+            "preparedQty": 50,
+            "maxQty": 55,
+            "unitPrice": 25,
+            "tags": [
+              "Chicken"
+            ]
+          },
+          {
+            "id": "4cc5ad78-c639-41bd-af9e-cea7a03bb0e5",
+            "menuName": "BigSpicy Chicken",
+            "menuImage": "img.jpg",
+            "menuDescription": "Tender and juicy chicken coats with a hot & crispy batter",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 15,
+            "tags": [
+              "Chicken",
+              "Burger"
+            ]
+          },
+          {
+            "id": "79c5d3c4-dd58-4444-8233-199d56d61175",
+            "menuName": "BigSpicy Paneer",
+            "menuImage": "img.jpg",
+            "menuDescription": "Exquisitely picked, soft and tender paneer overwhelmed with a fiery",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 120,
+            "tags": [
+              "Paneer",
+              "veg",
+              "Wrap"
+            ]
+          },
+          {
+            "id": "2d783970-fa71-4d19-9be8-9f05b488a884",
+            "menuName": "McChicken Meal",
+            "menuImage": "img.jpg",
+            "menuDescription": "That includes McChicken, medium fries and medium Coke",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 150,
+            "tags": [
+              "Chicken",
+              "Meal"
+            ]
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "564f0877-c8d5-44ed-8c17-c22f3axyzdg9",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "The Fat Duck",
+        "shopImage": "https://prod-upp-image-read.ft.com/19639e80-6ac2-11ea-a3c9-1fe6fedcca75",
+        "tag": "Veggie and Chicken Special",
+        "preparedDate": "2023-08-21",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          " deliveryCharge": 5
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": false,
+          "dinner": false,
+          "timing": {
+            "closingTime": "07:00 PM",
+            "deliveryFrom": "08:00 PM"
+          }
+        },
+        "menu": [
+          {
+            "id": "00daced7-8456-4ee3-8a67-b8372f701f8e",
+            "menuName": "Fish Fry",
+            "menuImage": "img.jpg",
+            "menuDescription": "Fish",
+            "preparedQty": 50,
+            "maxQty": 9,
+            "unitPrice": 80,
+            "tags": [
+              "Tasty Fish"
+            ]
+          },
+          {
+            "id": "25aac04a-ecae-41fc-9633-a3b308c5e70c",
+            "menuName": "FILET-O-FISH MEAL",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/Filet-O-FishMeal.jpg",
+            "menuDescription": "That includes Filet-O-Fish, medium fries and medium Coke",
+            "preparedQty": 50,
+            "maxQty": 9,
+            "unitPrice": 120,
+            "tags": [
+              "Chicken",
+              "Burger"
+            ]
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "321f0878-c8d5-44ed-8c17-c22f3a123456",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "The Fat Duck",
+        "shopImage": "https://prod-upp-image-read.ft.com/19639e80-6ac2-11ea-a3c9-1fe6fedcca75",
+        "tag": "Veggie and Chicken Special",
+        "preparedDate": "2023-08-06",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          " deliveryCharge": 5
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": false,
+          "dinner": false,
+          "timing": {
+            "closingTime": "07:00 PM",
+            "deliveryFrom": "08:00 PM"
+          }
+        },
+        "menu": [
+          {
+            "id": "4cc5ad78-c639-41bd-af9e-cea7a03bb0e5",
+            "menuName": "BigSpicy Chicken Wrap",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/BigSpicyChickenWrap.jpg",
+            "menuDescription": "Tender and juicy chicken coats with a hot & crispy batter",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 15,
+            "tags": [
+              "Chicken",
+              "Burger"
+            ]
+          },
+          {
+            "id": "f445389d-4782-445f-92f7-9855aef85041",
+            "menuName": "Mutton Sukka",
+            "menuImage": "img.jpg",
+            "menuDescription": "Mutton sukka",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 8
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "17650877-c8d5-44ed-8c17-c22f3axy5671",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "The Fat Duck",
+        "shopImage": "https://prod-upp-image-read.ft.com/19639e80-6ac2-11ea-a3c9-1fe6fedcca75",
+        "tag": "Veggie and Chicken Special",
+        "preparedDate": "2023-08-01",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          " deliveryCharge": 5
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": false,
+          "dinner": false,
+          "timing": {
+            "closingTime": "07:00 PM",
+            "deliveryFrom": "08:00 PM"
+          }
+        },
+        "menu": [
+          {
+            "id": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/McSpicyChicken.jpg",
+            "menuDescription": "Briyani with raitha,egg and kurma",
+            "preparedQty": 50,
+            "maxQty": 9,
+            "unitPrice": 100,
+            "tags": [
+              "Chicken",
+              "Briyani"
+            ]
+          },
+          {
+            "id": "79c5d3c4-dd58-4444-8233-199d56d61175",
+            "menuName": "BigSpicy Paneer Wrap",
+            "menuImage": "https://www.mcdonaldsindia.com/images/productview/BigSpicyPaneerWrap.jpg",
+            "menuDescription": "Exquisitely picked, soft and tender paneer overwhelmed with a fiery",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 120,
+            "tags": [
+              "Paneer",
+              "veg",
+              "Wrap"
+            ]
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "d7aa8a8a-9f33-4da0-b1f8-d7e8982d7eff",
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "shopName": "Belfast Restaurant",
+        "shopImage": "https://sardiniarestaurant.co.uk/wp-content/uploads/2019/11/DV6B8900-min.jpg",
+        "tag": "Mutton spl",
+        "preparedDate": "2023-08-05",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": true,
+          "deliveryCharge": 5
+        },
+        "mealType": [
+          "Breakfast",
+          "Lunch",
+          "Dinner"
+        ],
+        "mealTime": {
+          "breakfast": false,
+          "lunch": false,
+          "dinner": true,
+          "timing": {
+            "closingTime": "07:00 PM",
+            "deliveryFrom": "08:00 PM"
+          }
+        },
+        "menu": [
+          {
+            "id": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+            "menuName": "Mutton Briyani",
+            "menuImage": "img.jpg",
+            "menuDescription": "Briyani with raitha,egg and kurma",
+            "preparedQty": 50,
+            "maxQty": 8,
+            "unitPrice": 100
+          },
+          {
+            "id": "f445389d-4782-445f-92f7-9855aef85041",
+            "menuName": "Mutton Sukka",
+            "menuImage": "img.jpg",
+            "menuDescription": "Mutton sukka",
+            "preparedQty": 50,
+            "maxQty": 5,
+            "unitPrice": 8
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "a0730c11-9883-45a5-9b32-be49c84eeae1",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "",
+        "shopImage": "",
+        "tag": "Labore irure numquam",
+        "preparedDate": "2005-10-27",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": true,
+          "deliveryCharge": 20
+        },
+        "mealType": [
+          "breakfast",
+          "dinner"
+        ],
+        "mealTime": {
+          "breakfast": true,
+          "lunch": false,
+          "dinner": true,
+          "timing": {
+            "deliveryFrom": "03:19",
+            "closingTime": "16:03"
+          }
+        },
+        "menu": [
+          {
+            "id": "1abda1ca-b0fc-4d49-8ae2-364150c9dd92",
+            "menuName": "Burger",
+            "menuImage": "Burger.jpg",
+            "menuDescription": "Tasty Burger ",
+            "preparedQty": 80,
+            "maxQty": 20,
+            "unitPrice": 100,
+            "tags": [
+              "Chicken",
+              "Wrap",
+              "Veg"
+            ]
+          },
+          {
+            "id": "10d972a5-08a7-411f-973a-874d7a724d0d",
+            "menuName": "Sandwich",
+            "menuImage": "Sandwich.jpg",
+            "menuDescription": "Tasty Sandwich ",
+            "preparedQty": 80,
+            "maxQty": 20,
+            "unitPrice": 100,
+            "tags": [
+              "Wrap",
+              "Veg",
+              "Chicken"
+            ]
+          }
+        ],
+        "dealStatus": "open"
+      },
+      {
+        "id": "6ef7bcd9-7ee4-484c-8164-a5eb617a52d0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "shopName": "",
+        "shopImage": "",
+        "tag": "Nisi sit vero quam d",
+        "preparedDate": "2016-12-15",
+        "deliveryMode": {
+          "delivery": true,
+          "collection": true,
+          "deliveryCharge": 20
+        },
+        "mealType": [],
+        "mealTime": {
+          "breakfast": false,
+          "lunch": false,
+          "dinner": true,
+          "timing": {
+            "deliveryFrom": "03:59",
+            "closingTime": "06:06"
+          }
+        },
+        "menu": [
+          {
+            "id": "ec93c425-8d2b-4d16-9639-09e848dd14a4",
+            "menuName": "Pizza",
+            "menuImage": "pizza.jpg",
+            "menuDescription": "Nisi incididunt fugi",
+            "preparedQty": 291,
+            "maxQty": 47,
+            "unitPrice": 232,
+            "tags": [
+              "Veg"
+            ]
+          }
+        ]
+      }
+    ],
+    "orders": [
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "a70b684f-c3fa-48d4-8d52-002c6452839f",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "2023-07-28T00:00:00.000+05:30",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "img": "",
+          "name": "Jana",
+          "address": {
+            "apartment": "Belfast apartment",
+            "street": "2nd Quarter street",
+            "city": "Belfast",
+            "postCode": "BT17"
+          },
+          "phoneNumbers": {
+            "mobile": "8667887531",
+            "whatsapp": "6383057001"
+          },
+          "email": "bjana7282@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "orderedQty": 5,
+            "unitPrice": 8,
+            "total": 40
+          },
+          {
+            "menuId": "94081fc9-ef2f-42d8-b77e-dd2015ca9fa9",
+            "menuName": "Chicken 65",
+            "orderedQty": 5,
+            "unitPrice": 8.99,
+            "total": 44.95
+          }
+        ],
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          "deliveryCharge": 3
+        },
+        "overallTotalAmt": 84.95,
+        "orderStatus": "confirmed",
+        "deliveryDateTime": "2023-07-28T00:00:00.000+05:30"
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "0007d592-ddad-4d85-98b4-c84e9e117a2f",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "2023-07-28T00:00:00.000+05:30",
+        "custDetails": {
+          "id": "f866e3d0-45cd-499b-ba35-19f123ff6ada",
+          "img": "",
+          "name": "Mekala",
+          "address": {
+            "apartment": "College Central apartment",
+            "street": "2nd Quarter street",
+            "city": "Belfast",
+            "postCode": "BT1"
+          },
+          "phoneNumbers": {
+            "mobile": "3235646456",
+            "whatsapp": "45465146545"
+          },
+          "email": "mekala@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+            "menuName": "McSpicy Chicken",
+            "orderedQty": 2,
+            "unitPrice": 25,
+            "total": 50
+          },
+          {
+            "menuId": "4cc5ad78-c639-41bd-af9e-cea7a03bb0e5",
+            "menuName": "BigSpicy Chicken",
+            "orderedQty": 2,
+            "unitPrice": 15,
+            "total": 30
+          },
+          {
+            "menuId": "79c5d3c4-dd58-4444-8233-199d56d61175",
+            "menuName": "BigSpicy Paneer",
+            "orderedQty": 2,
+            "unitPrice": 120,
+            "total": 240
+          },
+          {
+            "menuId": "2d783970-fa71-4d19-9be8-9f05b488a884",
+            "menuName": "McChicken Meal",
+            "orderedQty": 2,
+            "unitPrice": 30.5,
+            "total": 61
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": true,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 33.98,
+        "orderStatus": "confirmed",
+        "deliveryDateTime": "2023-07-28T00:00:00.000+05:30"
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "e6bcd272-89df-40de-8c3c-79341d0b4895",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "2023-07-10T14:00:00.000+05:30",
+        "custDetails": {
+          "id": "28f91462-cfc1-4f34-b7c8-491c619d8de0",
+          "img": "",
+          "name": "Anandh",
+          "address": {
+            "apartment": "City apartment",
+            "street": "2nd Quarter street",
+            "city": "Belfast",
+            "postCode": "BT7"
+          },
+          "phoneNumbers": {
+            "mobile": "1234567",
+            "whatsapp": "3315646546"
+          },
+          "email": "anandh@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+            "menuName": "Mutton Briyani",
+            "orderedQty": 5,
+            "unitPrice": 9,
+            "total": 45
+          },
+          {
+            "menuId": "f445389d-4782-445f-92f7-9855aef85041",
+            "menuName": "Mutton Sukka",
+            "orderedQty": 5,
+            "unitPrice": 8,
+            "total": 40
+          }
+        ],
+        "deliveryMode": {
+          "delivery": true,
+          "collection": false,
+          "deliveryCharge": 5
+        },
+        "overallTotalAmt": 85,
+        "orderStatus": "awaiting confirmation",
+        "deliveryDateTime": "2023-07-10T14:30:00.000+05:30"
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "p6bcd272-89df-40de-8c3c-79341d0b4896",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "2023-07-08T12:00:00.000+05:30",
+        "custDetails": {
+          "id": "28f91462-cfc1-4f34-b7c8-491c619d8de0",
+          "img": "",
+          "name": "Anandh",
+          "address": {
+            "apartment": "City apartment",
+            "street": "2nd Quarter street",
+            "city": "Belfast",
+            "postcode": "BT7"
+          },
+          "phoneNumbers": {
+            "mobile": "1234567",
+            "whatsapp": "3315646546"
+          },
+          "email": "anandh@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "orderedQty": 9,
+            "unitPrice": 4,
+            "total": 36
+          },
+          {
+            "menuId": "00daced7-8456-4ee3-8a67-b8372f701f8e",
+            "menuName": "Fish Fry",
+            "orderedQty": 5,
+            "unitPrice": 8,
+            "total": 40
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": true,
+          "deliveryCharge": 5
+        },
+        "overallTotalAmt": 76,
+        "orderStatus": "confirmed",
+        "deliveryDateTime": "2023-07-08T12:45:00.000+05:30"
+      },
+      {
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "id": "db66d2b3-23b9-4065-b3bc-ce9122093720",
+        "dealId": "d7aa8a8a-9f33-4da0-b1f8-d7e8982d7eff",
+        "orderDate": "Wed Sep 20 2023 11:09:16 GMT+0530 (India Standard Time)",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "firstName": "Buvaneswari",
+          "lastName": "buvi",
+          "address1": "Belfast apartment building",
+          "address2": "2nd Quarter street",
+          "city": "Belfast",
+          "postCode": "BT92355",
+          "mobile": "05641456456",
+          "whatsapp": "6383057001",
+          "email": "buvana@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+            "menuName": "Mutton Briyani",
+            "orderedQty": 1,
+            "unitPrice": 100,
+            "total": 100
+          },
+          {
+            "menuId": "f445389d-4782-445f-92f7-9855aef85041",
+            "menuName": "Mutton Sukka",
+            "orderedQty": 1,
+            "unitPrice": 8,
+            "total": 8
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": false,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 108,
+        "orderStatus": "confirmed",
+        "deliveryDateTime": ""
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "549343f2-5f05-4cf3-8605-765a182d3458",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "orderDate": "Wed Sep 20 2023 11:18:39 GMT+0530 (India Standard Time)",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "firstName": "Buvaneswari",
+          "lastName": "buvi",
+          "address1": "Belfast apartment building",
+          "address2": "2nd Quarter street",
+          "city": "Belfast",
+          "postCode": "BT92355",
+          "mobile": "05641456456",
+          "whatsapp": "6383057001",
+          "email": "buvana@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+            "menuName": "McSpicy Chicken",
+            "orderedQty": 37,
+            "unitPrice": 25,
+            "total": 925
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": false,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 925,
+        "orderStatus": "confirmed",
+        "deliveryDateTime": ""
+      },
+      {
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "id": "8c5591dd-57a0-49a9-8aa8-10175f420a25",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "orderDate": "Wed Sep 20 2023 11:19:15 GMT+0530 (India Standard Time)",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "firstName": "Buvaneswari",
+          "lastName": "buvi",
+          "address1": "Belfast apartment building",
+          "address2": "2nd Quarter street",
+          "city": "Belfast",
+          "postCode": "BT92355",
+          "mobile": "05641456456",
+          "whatsapp": "6383057001",
+          "email": "buvana@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+            "menuName": "McSpicy Chicken",
+            "orderedQty": 5,
+            "unitPrice": 25,
+            "total": 125
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": false,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 125,
+        "orderStatus": "pending confirmation",
+        "deliveryDateTime": ""
+      },
+      {
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "id": "7d3a4401-7657-4627-90cd-d83fe9df1b81",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "Wed Sep 20 2023 11:36:35 GMT+0530 (India Standard Time)",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "firstName": "Buvaneswari",
+          "lastName": "buvi",
+          "address1": "Belfast apartment building",
+          "address2": "2nd Quarter street",
+          "city": "Belfast",
+          "postCode": "BT92355",
+          "mobile": "05641456456",
+          "whatsapp": "6383057001",
+          "email": "buvana@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "orderedQty": 6,
+            "unitPrice": 100,
+            "total": 600
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": false,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 600,
+        "orderStatus": "pending confirmation",
+        "deliveryDateTime": ""
+      },
+      {
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "id": "7c47f387-02bd-48da-b2e1-b493bf8d2580",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "orderDate": "Wed Sep 20 2023 11:42:27 GMT+0530 (India Standard Time)",
+        "custDetails": {
+          "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+          "firstName": "Buvaneswari",
+          "lastName": "buvi",
+          "address1": "Belfast apartment building",
+          "address2": "2nd Quarter street",
+          "city": "Belfast",
+          "postCode": "BT92355",
+          "mobile": "05641456456",
+          "whatsapp": "6383057001",
+          "email": "buvana@gmail.com"
+        },
+        "orderItems": [
+          {
+            "menuId": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+            "menuName": "Chicken Briyani",
+            "orderedQty": 5,
+            "unitPrice": 100,
+            "total": 500
+          }
+        ],
+        "deliveryMode": {
+          "delivery": false,
+          "collection": false,
+          "deliveryCharge": 0
+        },
+        "overallTotalAmt": 500,
+        "orderStatus": "pending confirmation",
+        "deliveryDateTime": ""
+      }
+    ],
+    "orderSummary": [
+      {
+        "id": "db1fccb1-688f-4b76-9961-09801548cf23",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "8250440b-d5a5-4ce0-92ce-31d1f77d8d22",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "confirmedQty": 68,
+        "pendingConfirmationQty": 49,
+        "rejectedQty": 0
+      },
+      {
+        "id": "cfghjib1-688f-4b76-9961-09801548c723",
+        "dealId": "309f0877-c8d5-44ed-8c17-c22f3a255be2",
+        "shopId": "a47499a6-8c57-4806-b35d-6ba3eeff7354",
+        "menuId": "94081fc9-ef2f-42d8-b77e-dd2015ca9fa0",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 33,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 0
+      },
+      {
+        "id": "d52b3726-3414-4b20-844b-07d3be8a01a4",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "b98bd426-945c-4a62-a0d8-803bbdcdf24f",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 55,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 2
+      },
+      {
+        "id": "76bd1dfa-d5d2-4e0a-89cc-17ace97ec3ae",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "4cc5ad78-c639-41bd-af9e-cea7a03bb0e5",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 6,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 0
+      },
+      {
+        "id": "08616899-ec6f-4619-8630-8571ba0730b2",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "79c5d3c4-dd58-4444-8233-199d56d61175",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 6,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 0
+      },
+      {
+        "id": "de7f8890-0463-4636-a084-e3d9ec0fc0f7",
+        "dealId": "809f0877-c8d5-44ed-8c17-c22f3a255be0",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "2d783970-fa71-4d19-9be8-9f05b488a884",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 12,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 0
+      },
+      {
+        "id": "12345678-ec6f-4619-8672-8571ba073376",
+        "dealId": "564f0877-c8d5-44ed-8c17-c22f3axyzdg9",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "00daced7-8456-4ee3-8a67-b8372f701f8e",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "confirmedQty": 80,
+        "pendingConfirmationQty": 11,
+        "rejectedQty": 0
+      },
+      {
+        "id": "23451678-7070-4636-a084-e3d9ec0fggdc",
+        "dealId": "564f0877-c8d5-44ed-8c17-c22f3axyzdg9",
+        "shopId": "1a2a8fa0-e6f3-44f2-b864-00c59bda1c72",
+        "menuId": "25aac04a-ecae-41fc-9633-a3b308c5e70c",
+        "preparedQty": 50,
+        "maxQty": 9,
+        "confirmedQty": 120,
+        "pendingConfirmationQty": 2,
+        "rejectedQty": 0
+      },
+      {
+        "id": "93ea63c6-c26d-4788-97c0-6d16e06b019d",
+        "dealId": "d7aa8a8a-9f33-4da0-b1f8-d7e8982d7eff",
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "menuId": "d58a0322-26c9-4bef-bae0-70149f4ad2ae",
+        "preparedQty": 50,
+        "maxQty": 8,
+        "confirmedQty": 50,
+        "pendingConfirmationQty": 2,
+        "rejectedQty": 5
+      },
+      {
+        "id": "8a7a8a8a-9f33-4da0-b1f8-d7e8982cccff",
+        "dealId": "d7aa8a8a-9f33-4da0-b1f8-d7e8982d7eff",
+        "shopId": "42e250a0-d32c-42a8-b066-b5e6a2d04795",
+        "menuId": "f445389d-4782-445f-92f7-9855aef85041",
+        "preparedQty": 50,
+        "maxQty": 5,
+        "confirmedQty": 7,
+        "pendingConfirmationQty": 0,
+        "rejectedQty": 0
+      }
+    ],
+    "users": [
+      {
+        "id": "4bc3ebe8-1316-4d7f-8dae-d496e014844d",
+        "firstName": "Buvaneswari",
+        "lastName": "buvi",
+        "address1": "Belfast apartment building",
+        "address2": "2nd Quarter street",
+        "city": "Belfast",
+        "postCode": "BT92355",
+        "mobile": "05641456456",
+        "whatsapp": "6383057001",
+        "email": "buvana@gmail.com"
+      },
+      {
+        "id": "28f91462-cfc1-4f34-b7c8-491c619d8de0",
+        "firstName": "Anandh",
+        "lastName": "S",
+        "address1": "City apartment",
+        "address2": "2nd Quarter street",
+        "city": "Belfast",
+        "postCode": "BT7",
+        "mobile": "1234567",
+        "whatsapp": "3315646546",
+        "email": "anandh@gmail.com"
+      },
+      {
+        "id": "4fa22885-140b-47b8-8de8-a3cfaf72d750",
+        "firstName": "Sangeetha",
+        "lastName": "A",
+        "address1": "Bass apartment",
+        "address2": "2nd Quarter street",
+        "city": "Belfast",
+        "postCode": "BT2",
+        "mobile": "3235646456",
+        "whatsapp": "45465146545",
+        "email": "sangeetha@gmail.com"
+      },
+      {
+        "id": "f866e3d0-45cd-499b-ba35-19f123ff6ada",
+        "firstName": "Mekala",
+        "lastName": "S",
+        "address1": "College Central apartment",
+        "address2": "2nd Quarter street",
+        "city": "Belfast",
+        "postCode": "BT1",
+        "mobile": "3235646456",
+        "whatsapp": "45465146545",
+        "email": "mekala@gmail.com"
+      },
+      {
+        "id": "3b7fa7af-3b77-497c-aaaa-63c823c0707d",
+        "firstName": "Mona",
+        "lastName": "Beasley",
+        "address1": "82 ",
+        "address2": "Aspernatur ut reicie",
+        "city": "Explicabo Sed modi ",
+        "postCode": "Illum duis consequa",
+        "mobile": "Sit velit sint asp",
+        "whatsapp": "Consequatur iure ex",
+        "email": "qiwysano@mailinator.com"
+      },
+      {
+        "id": "afb6f502-c7d0-4e65-b38c-b71a50cc5fe3",
+        "firstName": "Driscoll",
+        "lastName": "Bender",
+        "address1": "27 West Hague Court",
+        "address2": "Mollit obcaecati rec",
+        "city": "Inn ihi",
+        "postCode": "1231233",
+        "mobile": "3333333333333",
+        "whatsapp": "222222222222",
+        "email": "qyrivaket@mailinator.com"
+      }
+    ]
+  }
